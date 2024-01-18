@@ -29,5 +29,7 @@ public class Casilla {
         }
         return String.valueOf(ficha);
     }
+
+
 }
 
